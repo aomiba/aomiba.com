@@ -1,0 +1,19 @@
+{
+  "name": "aomiba.com",
+  "version": "1.0.0",
+  "description": "personal site",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [
+    "aomiba",
+    "js"
+  ],
+  "author": "aomiba",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.4.1"
+  }
+}
