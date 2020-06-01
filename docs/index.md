@@ -7,7 +7,8 @@
 
 # base info
 
-- [语雀](https://www.yuque.com/aomiba)
+- [简历](https://www.yuque.com/aomiba)
+- [语雀](https://www.yuque.com/docs/share/e0239d12-5179-4478-84c1-75cec0b6f978?#)
 - [github](https://github.com/aomiba)
 - [cnblogs](https://www.cnblogs.com/fepapa/)
 
